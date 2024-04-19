@@ -9,7 +9,7 @@ sitemap_url = 'http://cineport.jp/post-sitemap.xml'
 # 下载图片的函数，同时处理URL
 def download_image(image_url, save_folder, txt_file):
     # 删除URL中的"-scaled"和分辨率部分（如"-724x1024”），但只有当分辨率后缀后面没有其他字符时
-    pattern = r'(-\d+x\d+)(?![\w-])'
+    pattern = r'(-\d+x\d+)(?![-])'
     processed_url = re.sub(pattern, '', image_url)
     processed_url = re.sub('-scaled', '', processed_url)
     
