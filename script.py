@@ -7,7 +7,11 @@ sitemap_url = 'http://cineport.jp/post-sitemap.xml'
 
 # 下载图片的函数
 def download_image(image_url, save_folder):
-    response = requests.get(image_url)
+    pattern = r'(-\d+x\d+)(?![\w.-])'
+    processed_url = re.sub(pattern, '', image_url)
+    processed_url = re.sub('-scaled', '', processed_url)
+    
+    response = requests.get(processed_url)
     if response.status_code == 200:
         file_name = os.path.join(save_folder, image_url.split('/')[-1])
         with open(file_name, 'wb') as f:
