@@ -56,10 +56,10 @@ def parse_sitemap(sitemap_url, save_folder_main, save_folder_thumb, txt_file_mai
                 # 确保srcset中包含有效的尺寸信息
                 if 'w' in srcset:
                     img_urls = re.findall(r'https?://\S+', srcset)
-                    sizes = [int(re.search(r'(\d+)w', url).group(1)) for url in img_urls]
-                    smallest_img_url = img_urls[sizes.index(min(sizes))]
-                    download_image(smallest_img_url, save_folder_thumb, txt_file_thumb)
-
+                    sizes = [int(re.search(r'(\d+)w', url).group(1)) for url in img_urls if re.search(r'(\d+)w', url)]
+                    if sizes:
+                        smallest_img_url = img_urls[sizes.index(min(sizes))]
+                        download_image(smallest_img_url, save_folder_thumb, txt_file_thumb)
 
 
 # 主函数
