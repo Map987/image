@@ -22,10 +22,11 @@ def download_image(image_url, save_folder, txt_file):
         with open(file_name, 'wb') as f:
             f.write(response.content)
         file_size = os.path.getsize(file_name)
+        file_size = file_size / (1024 * 1024)
         current_time = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
         with open(txt_file, 'a') as tf:
-            tf.write(f"{image_url} | {file_size} bytes | {current_time}\n")
-        print(f"Downloaded {image_url} to {file_name} | Size: {file_size} bytes")
+            tf.write(f"{image_url} | {file_size:.1f} MB | {current_time}\n")
+        print(f"Downloaded {image_url} to {file_name} | Size: {file_size:.1f} MB")
         return file_name, file_size, current_time
     else:
         print(f"Failed to download {image_url}")
