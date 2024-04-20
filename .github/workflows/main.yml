@@ -34,11 +34,12 @@ jobs:
         run: |
           git config --local user.name $GIT_NAME
           git config --local user.email $GIT_EMAIL
+          git reset --mixed master
           git add .
           git commit -m "Github action update at `date '+%Y-%m-%d %H:%M:%S'`."
       - name: Push
         uses: ad-m/github-push-action@master
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          github_token: ${{ secrets.SECRET_KEY }}
           branch: master      
 
