@@ -40,7 +40,7 @@ jobs:
           git merge
           git add .
           git commit -m "Github action update at `date '+%Y-%m-%d %H:%M:%S'`."
-          git push original master
+          git push original master ----allow-unrelated-histories
       - name: Push
         uses: ad-m/github-push-action@master
         with:
