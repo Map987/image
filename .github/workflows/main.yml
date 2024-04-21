@@ -3,7 +3,7 @@ name: Action Practice
 on:
   push:
   schedule:
-    - cron: '*/5 * * * *'
+    - cron: "0 16 * * *"
 
 env:
   TZ: Asia/Shanghai
