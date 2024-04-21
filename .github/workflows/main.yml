@@ -35,8 +35,8 @@ jobs:
           git config --local user.name $GIT_NAME
           git config --local user.email $GIT_EMAIL
           git pull
-          git fetch 
-          git merge
+           
+          
           git reset --mixed original/master
           git add .
           git commit -m "Github action update at `date '+%Y-%m-%d %H:%M:%S'`."
