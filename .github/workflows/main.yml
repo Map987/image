@@ -26,17 +26,7 @@ jobs:
           pip3 install requests beautifulsoup4 lxml
       - name: Run
         run: python3 ./script.py
-      - name: Configure Git LFS
-        run: git lfs install
-      - name: Install Git LFS
-        run: |
-         wget https://github.com/git-lfs/git-lfs/releases/download/v3.0.2/git-lfs-linux-amd64-v3.0.2.tar.gz
-         tar -xzf git-lfs-linux-amd64-v3.0.2.tar.gz
-         ./git-lfs-3.0.2/install.sh
-      - name: Track large files with Git LFS
-        run: |
-         echo "* filter=lfs diff=lfs merge=lfs -text" >> .gitattributes
-         git lfs track "*"
+
       - name: Commit
         env:
           GIT_NAME: GitHub Actions[Bot]
