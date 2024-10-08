@@ -302,3 +302,4 @@ wix:image://v1/b4e346_f993f82796014a2bb6c9aabc824717eb~mv2.gif/im_noimage.gif#or
 wix:image://v1/b4e346_f993f82796014a2bb6c9aabc824717eb~mv2.gif/im_noimage.gif#originWidth=245&originHeight=137
 wix:image://v1/b4e346_2a1d1b9cf8d54604bf948e59649ace8a~mv2.jpg/ぷにるんずぷに２.jpg#originWidth=6088&originHeight=8604
 wix:image://v1/b4e346_8be79308448046cb92d05ed154b74873~mv2.jpg/殿と犬_poster.jpg#originWidth=2880&originHeight=4073
+wix:image://v1/b4e346_f4884d56a2894903a3c6eec23e7b6e41~mv2.jpg/おーいトンボ2期.jpg#originWidth=2999&originHeight=3997
