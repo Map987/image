@@ -304,3 +304,4 @@ wix:image://v1/b4e346_2a1d1b9cf8d54604bf948e59649ace8a~mv2.jpg/ぷにるんず�
 wix:image://v1/b4e346_8be79308448046cb92d05ed154b74873~mv2.jpg/殿と犬_poster.jpg#originWidth=2880&originHeight=4073
 wix:image://v1/b4e346_f4884d56a2894903a3c6eec23e7b6e41~mv2.jpg/おーいトンボ2期.jpg#originWidth=2999&originHeight=3997
 wix:image://v1/120fe5_9185253f33eb4bcc9ba3c08d7c540199~mv2.jpg/kusuriya_2.jpg#originWidth=8598&originHeight=12165
+wix:image://v1/120fe5_63810bc560624732afebb6d2f5a6834f~mv2.jpg/Blue_Fight.jpg#originWidth=4299&originHeight=6083
