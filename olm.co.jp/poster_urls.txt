@@ -306,3 +306,5 @@ wix:image://v1/b4e346_f4884d56a2894903a3c6eec23e7b6e41~mv2.jpg/おーいトン�
 wix:image://v1/120fe5_9185253f33eb4bcc9ba3c08d7c540199~mv2.jpg/kusuriya_2.jpg#originWidth=8598&originHeight=12165
 wix:image://v1/120fe5_63810bc560624732afebb6d2f5a6834f~mv2.jpg/Blue_Fight.jpg#originWidth=4299&originHeight=6083
 wix:image://v1/120fe5_e89b36b05b0b4050880e98a1ce3f9636~mv2.png/DragonballDaima.png#originWidth=1000&originHeight=1414
+wix:image://v1/120fe5_efbf45f5e60d46dd983095c15cb3a16f~mv2.jpg/ニャイリビ.jpg#originWidth=7094&originHeight=9892
+wix:image://v1/120fe5_a26366b60d024f0b8884bdca7ce8b802~mv2.jpg/宇宙人ムームー.jpg#originWidth=3985&originHeight=6046
