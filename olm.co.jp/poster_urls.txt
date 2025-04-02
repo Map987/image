@@ -310,3 +310,4 @@ wix:image://v1/120fe5_efbf45f5e60d46dd983095c15cb3a16f~mv2.jpg/ニャイリビ.j
 wix:image://v1/120fe5_a26366b60d024f0b8884bdca7ce8b802~mv2.jpg/宇宙人ムームー.jpg#originWidth=3985&originHeight=6046
 wix:image://v1/120fe5_81d76d9034a8414ea1a9ff720a67eb24~mv2.jpg/追放者食堂へようこそ.jpg#originWidth=2122&originHeight=3000
 wix:image://v1/120fe5_40d3283325034e02ac08e6813c1a07ed~mv2.png/勇者のクズ.png#originWidth=10031&originHeight=7096
+wix:image://v1/120fe5_14e668e04bf2414b912a7e63d4a58c2d~mv2.jpg/薬屋のひとりごと202504.jpg#originWidth=4142&originHeight=5771
