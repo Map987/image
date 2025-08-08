@@ -37,11 +37,11 @@
 <link rel='dns-prefetch' href='//cdnjs.cloudflare.com' />
 <link rel="alternate" type="application/rss+xml" title="CINEPORT ・シネポート（都城） &raquo; フィード" href="http://cineport.jp/?feed=rss2" />
 <link rel="alternate" type="application/rss+xml" title="CINEPORT ・シネポート（都城） &raquo; コメントフィード" href="http://cineport.jp/?feed=comments-rss2" />
-<script type="text/javascript" id="wpp-js" src="http://cineport.jp/wp-content/plugins/wordpress-popular-posts/assets/js/wpp.min.js?ver=7.3.3" data-sampling="0" data-sampling-rate="100" data-api-url="http://cineport.jp/index.php?rest_route=/wordpress-popular-posts" data-post-id="0" data-token="2f16d35afd" data-lang="0" data-debug="0"></script>
-		<!-- This site uses the Google Analytics by MonsterInsights plugin v9.6.1 - Using Analytics tracking - https://www.monsterinsights.com/ -->
+<script type="text/javascript" id="wpp-js" src="http://cineport.jp/wp-content/plugins/wordpress-popular-posts/assets/js/wpp.min.js?ver=7.3.3" data-sampling="0" data-sampling-rate="100" data-api-url="http://cineport.jp/index.php?rest_route=/wordpress-popular-posts" data-post-id="0" data-token="9013d352f8" data-lang="0" data-debug="0"></script>
+		<!-- This site uses the Google Analytics by MonsterInsights plugin v9.7.0 - Using Analytics tracking - https://www.monsterinsights.com/ -->
 							<script src="//www.googletagmanager.com/gtag/js?id=G-5RNLD86YEP"  data-cfasync="false" data-wpfc-render="false" type="text/javascript" async></script>
 			<script data-cfasync="false" data-wpfc-render="false" type="text/javascript">
-				var mi_version = '9.6.1';
+				var mi_version = '9.7.0';
 				var mi_track_user = true;
 				var mi_no_track_reason = '';
 								var MonsterInsightsDefaultLocations = {"page_location":"http:\/\/cineport.jp\/"};
@@ -133,7 +133,7 @@
 						__gtagTracker('set', MonsterInsightsLocations);
 					}
 										__gtagTracker('config', 'G-5RNLD86YEP', {"forceSSL":"true","link_attribution":"true"} );
-															window.gtag = __gtagTracker;										(function () {
+										window.gtag = __gtagTracker;										(function () {
 						/* https://developers.google.com/analytics/devguides/collection/analyticsjs/ */
 						/* ga and __gaTracker compatibility shim. */
 						var noopfn = function () {
@@ -254,7 +254,8 @@
 					})();
 									}
 			</script>
-				<!-- / Google Analytics by MonsterInsights -->
+			
+							<!-- / Google Analytics by MonsterInsights -->
 		<script type="text/javascript">
 /* <![CDATA[ */
 window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/16.0.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/16.0.1\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/cineport.jp\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.8.2"}};
@@ -300,7 +301,7 @@ ul.wpp-list{counter-reset:number}ul.wpp-list li{list-style:none;position:relativ
 .gf {font-family: "Roboto", "游ゴシック", "Yu Gothic", "游ゴシック体", "YuGothic", "Hiragino Kaku Gothic ProN", Meiryo, sans-serif;}
 </style>
 <link rel='stylesheet' id='fontawesome-css' href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css' type='text/css' media='all' />
-<script type="text/javascript" src="http://cineport.jp/wp-content/plugins/google-analytics-for-wordpress/assets/js/frontend-gtag.min.js?ver=9.6.1" id="monsterinsights-frontend-script-js" async="async" data-wp-strategy="async"></script>
+<script type="text/javascript" src="http://cineport.jp/wp-content/plugins/google-analytics-for-wordpress/assets/js/frontend-gtag.min.js?ver=9.7.0" id="monsterinsights-frontend-script-js" async="async" data-wp-strategy="async"></script>
 <script data-cfasync="false" data-wpfc-render="false" type="text/javascript" id='monsterinsights-frontend-script-js-extra'>/* <![CDATA[ */
 var monsterinsights_frontend = {"js_events_tracking":"true","download_extensions":"doc,pdf,ppt,zip,xls,docx,pptx,xlsx","inbound_paths":"[{\"path\":\"\\\/go\\\/\",\"label\":\"affiliate\"},{\"path\":\"\\\/recommend\\\/\",\"label\":\"affiliate\"}]","home_url":"http:\/\/cineport.jp","hash_tracking":"false","v4_id":"G-5RNLD86YEP"};/* ]]> */
 </script>
