@@ -311,3 +311,8 @@ wix:image://v1/120fe5_a26366b60d024f0b8884bdca7ce8b802~mv2.jpg/宇宙人ムー�
 wix:image://v1/120fe5_81d76d9034a8414ea1a9ff720a67eb24~mv2.jpg/追放者食堂へようこそ.jpg#originWidth=2122&originHeight=3000
 wix:image://v1/120fe5_40d3283325034e02ac08e6813c1a07ed~mv2.png/勇者のクズ.png#originWidth=10031&originHeight=7096
 wix:image://v1/120fe5_14e668e04bf2414b912a7e63d4a58c2d~mv2.jpg/薬屋のひとりごと202504.jpg#originWidth=4142&originHeight=5771
+wix:image://v1/120fe5_6515c97832f542ffa45bcb08504b0e0b~mv2.jpg/追放者食堂へようこそ2.jpg#originWidth=2122&originHeight=3000
+wix:image://v1/120fe5_d6c195048efb4a338ef7a3caa3703113~mv2.jpg/赤影.jpg#originWidth=2000&originHeight=1333
+wix:image://v1/120fe5_f77bcf3df0b4436a956f410fe3111b23~mv2.jpg/ニャイリビ2.jpg#originWidth=2051&originHeight=2850
+wix:image://v1/120fe5_71002a38aa9349fd8434104b19ad2beb~mv2.jpg/でっちあげ.jpg#originWidth=2150&originHeight=3041
+wix:image://v1/120fe5_a1d6010d0b184b02abdf5fb51249bd2f~mv2.png/ひみつのアイプリ.png#originWidth=3035&originHeight=4296
