@@ -318,3 +318,4 @@ wix:image://v1/120fe5_71002a38aa9349fd8434104b19ad2beb~mv2.jpg/でっちあげ.j
 wix:image://v1/120fe5_a1d6010d0b184b02abdf5fb51249bd2f~mv2.png/ひみつのアイプリ.png#originWidth=3035&originHeight=4296
 wix:image://v1/120fe5_c93603aba73748adbec240081219cb24~mv2.jpg/PMMV.jpg#originWidth=3548&originHeight=5016
 wix:image://v1/120fe5_f65555e147e44a859f80f1c6b8db00d6~mv2.jpg/BBX_S2.jpg#originWidth=2079&originHeight=2953
+wix:image://v1/120fe5_64f2852aebbe43d69381a3d0156956eb~mv2.jpg/lets_play.jpg#originWidth=7128&originHeight=9990
