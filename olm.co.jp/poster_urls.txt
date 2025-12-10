@@ -325,3 +325,4 @@ wix:image://v1/120fe5_224112f246dd463494fc91854b11f3d6~mv2.jpg/Last_Samurai_Stan
 wix:image://v1/120fe5_5fc5a787300d4c01ba789b290c589863~mv2.png/AO2_poster_2.png#originWidth=2000&originHeight=2828
 wix:image://v1/120fe5_73ab9114895d44c6b35e0ece7f06bf32~mv2.png/BBX_S3_KeyVisual.png#originWidth=2800&originHeight=3960
 wix:image://v1/120fe5_36411eb4b3684e98bd7032ce8283f21e~mv2.jpg/PM_Verne-6_KV-1_IMG.jpg#originWidth=7907&originHeight=11178
+wix:image://v1/120fe5_67627e54d7c445fcb6a2d5b30b10b363~mv2.png/勇者のクズ.png#originWidth=3508&originHeight=4961
