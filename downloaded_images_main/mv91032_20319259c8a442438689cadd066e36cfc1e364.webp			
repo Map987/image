@@ -36,7 +36,7 @@
 <link rel='dns-prefetch' href='//cdnjs.cloudflare.com' />
 <link rel="alternate" type="application/rss+xml" title="CINEPORT ・シネポート（都城） &raquo; フィード" href="http://cineport.jp/?feed=rss2" />
 <link rel="alternate" type="application/rss+xml" title="CINEPORT ・シネポート（都城） &raquo; コメントフィード" href="http://cineport.jp/?feed=comments-rss2" />
-<script type="text/javascript" id="wpp-js" src="http://cineport.jp/wp-content/plugins/wordpress-popular-posts/assets/js/wpp.min.js?ver=7.3.6" data-sampling="0" data-sampling-rate="100" data-api-url="http://cineport.jp/index.php?rest_route=/wordpress-popular-posts" data-post-id="0" data-token="3a90051cf8" data-lang="0" data-debug="0"></script>
+<script type="text/javascript" id="wpp-js" src="http://cineport.jp/wp-content/plugins/wordpress-popular-posts/assets/js/wpp.min.js?ver=7.3.6" data-sampling="0" data-sampling-rate="100" data-api-url="http://cineport.jp/index.php?rest_route=/wordpress-popular-posts" data-post-id="0" data-token="3f197d8634" data-lang="0" data-debug="0"></script>
 <link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="http://cineport.jp/index.php?rest_route=%2Foembed%2F1.0%2Fembed&#038;url=http%3A%2F%2Fcineport.jp%2F" />
 <link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="http://cineport.jp/index.php?rest_route=%2Foembed%2F1.0%2Fembed&#038;url=http%3A%2F%2Fcineport.jp%2F&#038;format=xml" />
 		<!-- This site uses the Google Analytics by MonsterInsights plugin v9.11.1 - Using Analytics tracking - https://www.monsterinsights.com/ -->
