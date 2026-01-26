@@ -327,3 +327,5 @@ wix:image://v1/120fe5_73ab9114895d44c6b35e0ece7f06bf32~mv2.png/BBX_S3_KeyVisual.
 wix:image://v1/120fe5_36411eb4b3684e98bd7032ce8283f21e~mv2.jpg/PM_Verne-6_KV-1_IMG.jpg#originWidth=7907&originHeight=11178
 wix:image://v1/120fe5_67627e54d7c445fcb6a2d5b30b10b363~mv2.png/勇者のクズ.png#originWidth=3508&originHeight=4961
 wix:image://v1/120fe5_00929768f16045ccbddb76fb1ccf4708~mv2.jpg/ダイヤのA_キービジュアル_ロゴin_v02.jpg#originWidth=1414&originHeight=2000
+wix:image://v1/120fe5_517bbe590b6f4a379daab6e12231e351~mv2.jpg/ラス為2期_ティザービジュアル_ロゴin.jpg#originWidth=1414&originHeight=2000
+wix:image://v1/120fe5_8f59206e1c554ffe90a46582bd694b2b~mv2.jpg/AIPRI_MV_KV.jpg#originWidth=3550&originHeight=5016
