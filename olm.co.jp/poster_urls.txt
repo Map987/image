@@ -330,3 +330,4 @@ wix:image://v1/120fe5_00929768f16045ccbddb76fb1ccf4708~mv2.jpg/ダイヤのA_キ
 wix:image://v1/120fe5_517bbe590b6f4a379daab6e12231e351~mv2.jpg/ラス為2期_ティザービジュアル_ロゴin.jpg#originWidth=1414&originHeight=2000
 wix:image://v1/120fe5_8f59206e1c554ffe90a46582bd694b2b~mv2.jpg/AIPRI_MV_KV.jpg#originWidth=3550&originHeight=5016
 wix:image://v1/120fe5_239cf4a8f06f49c089f10925ae8a83ca~mv2.jpg/2期KV_ロゴin.jpg#originWidth=1429&originHeight=2000
+wix:image://v1/120fe5_68fd630fedce46d284c88f76ead6468f~mv2.jpg/SBE_KV_logo_RGB.jpg#originWidth=1414&originHeight=2000
