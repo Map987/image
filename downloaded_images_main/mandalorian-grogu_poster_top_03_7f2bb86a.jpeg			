@@ -28,7 +28,7 @@
 		<meta name="twitter:description" content="上映時間について※日付・曜日に注意（20時以降の回は土曜日のみです。）" />
 		<meta name="twitter:image" content="http://cineport.jp/wp-content/uploads/2021/09/cropped-cineprot_logo3.png" />
 		<script type="application/ld+json" class="aioseo-schema">
-			{"@context":"https:\/\/schema.org","@graph":[{"@type":"BreadcrumbList","@id":"http:\/\/cineport.jp\/#breadcrumblist","itemListElement":[{"@type":"ListItem","@id":"http:\/\/cineport.jp#listItem","position":1,"name":"Home"}]},{"@type":"Organization","@id":"http:\/\/cineport.jp\/#organization","name":"CINEPORT \u30fb\u30b7\u30cd\u30dd\u30fc\u30c8\uff08\u90fd\u57ce\uff09","url":"http:\/\/cineport.jp\/","logo":{"@type":"ImageObject","url":"http:\/\/cineport.jp\/wp-content\/uploads\/2021\/09\/cropped-cineprot_logo3.png","@id":"http:\/\/cineport.jp\/#organizationLogo","width":420,"height":120},"image":{"@id":"http:\/\/cineport.jp\/#organizationLogo"}},{"@type":"WebPage","@id":"http:\/\/cineport.jp\/#webpage","url":"http:\/\/cineport.jp\/","name":"\u30b7\u30cd\u30dd\u30fc\u30c8 - CINEPORT \u30fb\u30b7\u30cd\u30dd\u30fc\u30c8\uff08\u90fd\u57ce\uff09 \u30b7\u30cd\u30dd\u30fc\u30c8","description":"\u4e0a\u6620\u6642\u9593\u306b\u3064\u3044\u3066\u203b\u65e5\u4ed8\u30fb\u66dc\u65e5\u306b\u6ce8\u610f\uff0820\u6642\u4ee5\u964d\u306e\u56de\u306f\u571f\u66dc\u65e5\u306e\u307f\u3067\u3059\u3002\uff09","inLanguage":"ja","isPartOf":{"@id":"http:\/\/cineport.jp\/#website"},"breadcrumb":{"@id":"http:\/\/cineport.jp\/#breadcrumblist"},"datePublished":"2024-12-28T10:30:10+09:00","dateModified":"2026-05-29T18:53:11+09:00"},{"@type":"WebSite","@id":"http:\/\/cineport.jp\/#website","url":"http:\/\/cineport.jp\/","name":"CINEPORT \u30fb\u30b7\u30cd\u30dd\u30fc\u30c8\uff08\u90fd\u57ce\uff09","inLanguage":"ja","publisher":{"@id":"http:\/\/cineport.jp\/#organization"}}]}
+			{"@context":"https:\/\/schema.org","@graph":[{"@type":"BreadcrumbList","@id":"http:\/\/cineport.jp\/#breadcrumblist","itemListElement":[{"@type":"ListItem","@id":"http:\/\/cineport.jp#listItem","position":1,"name":"Home"}]},{"@type":"Organization","@id":"http:\/\/cineport.jp\/#organization","name":"CINEPORT \u30fb\u30b7\u30cd\u30dd\u30fc\u30c8\uff08\u90fd\u57ce\uff09","url":"http:\/\/cineport.jp\/","logo":{"@type":"ImageObject","url":"http:\/\/cineport.jp\/wp-content\/uploads\/2021\/09\/cropped-cineprot_logo3.png","@id":"http:\/\/cineport.jp\/#organizationLogo","width":420,"height":120},"image":{"@id":"http:\/\/cineport.jp\/#organizationLogo"}},{"@type":"WebPage","@id":"http:\/\/cineport.jp\/#webpage","url":"http:\/\/cineport.jp\/","name":"\u30b7\u30cd\u30dd\u30fc\u30c8 - CINEPORT \u30fb\u30b7\u30cd\u30dd\u30fc\u30c8\uff08\u90fd\u57ce\uff09 \u30b7\u30cd\u30dd\u30fc\u30c8","description":"\u4e0a\u6620\u6642\u9593\u306b\u3064\u3044\u3066\u203b\u65e5\u4ed8\u30fb\u66dc\u65e5\u306b\u6ce8\u610f\uff0820\u6642\u4ee5\u964d\u306e\u56de\u306f\u571f\u66dc\u65e5\u306e\u307f\u3067\u3059\u3002\uff09","inLanguage":"ja","isPartOf":{"@id":"http:\/\/cineport.jp\/#website"},"breadcrumb":{"@id":"http:\/\/cineport.jp\/#breadcrumblist"},"datePublished":"2024-12-28T10:30:10+09:00","dateModified":"2026-05-30T19:07:14+09:00"},{"@type":"WebSite","@id":"http:\/\/cineport.jp\/#website","url":"http:\/\/cineport.jp\/","name":"CINEPORT \u30fb\u30b7\u30cd\u30dd\u30fc\u30c8\uff08\u90fd\u57ce\uff09","inLanguage":"ja","publisher":{"@id":"http:\/\/cineport.jp\/#organization"}}]}
 		</script>
 		<!-- All in One SEO -->
 
@@ -36,13 +36,13 @@
 <link rel='dns-prefetch' href='//cdnjs.cloudflare.com' />
 <link rel="alternate" type="application/rss+xml" title="CINEPORT ・シネポート（都城） &raquo; フィード" href="http://cineport.jp/?feed=rss2" />
 <link rel="alternate" type="application/rss+xml" title="CINEPORT ・シネポート（都城） &raquo; コメントフィード" href="http://cineport.jp/?feed=comments-rss2" />
-<script data-api-url="http://cineport.jp/index.php?rest_route=/wordpress-popular-posts" data-debug="0" data-lang="0" data-post-id="0" data-sampling-rate="100" data-sampling="0" data-token="10182decd4" id="wpp-js" src="http://cineport.jp/wp-content/plugins/wordpress-popular-posts/assets/js/wpp.min.js?ver=7.3.8"></script>
+<script data-api-url="http://cineport.jp/index.php?rest_route=/wordpress-popular-posts" data-debug="0" data-lang="0" data-post-id="0" data-sampling-rate="100" data-sampling="0" data-token="497d15eee6" id="wpp-js" src="http://cineport.jp/wp-content/plugins/wordpress-popular-posts/assets/js/wpp.min.js?ver=7.3.8"></script>
 <link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="http://cineport.jp/index.php?rest_route=%2Foembed%2F1.0%2Fembed&#038;url=http%3A%2F%2Fcineport.jp%2F" />
 <link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="http://cineport.jp/index.php?rest_route=%2Foembed%2F1.0%2Fembed&#038;url=http%3A%2F%2Fcineport.jp%2F&#038;format=xml" />
-		<!-- This site uses the Google Analytics by MonsterInsights plugin v10.2.1 - Using Analytics tracking - https://www.monsterinsights.com/ -->
+		<!-- This site uses the Google Analytics by MonsterInsights plugin v10.2.2 - Using Analytics tracking - https://www.monsterinsights.com/ -->
 							<script src="//www.googletagmanager.com/gtag/js?id=G-5RNLD86YEP"  data-cfasync="false" data-wpfc-render="false" type="text/javascript" async></script>
 			<script data-cfasync="false" data-wpfc-render="false" type="text/javascript">
-				var mi_version = '10.2.1';
+				var mi_version = '10.2.2';
 				var mi_track_user = true;
 				var mi_no_track_reason = '';
 								var MonsterInsightsDefaultLocations = {"page_location":"http:\/\/cineport.jp\/"};
@@ -326,7 +326,7 @@ ul.wpp-list{counter-reset:number}ul.wpp-list li{list-style:none;position:relativ
 /*# sourceURL=gf_font-inline-css */
 </style>
 <link rel='stylesheet' id='fontawesome-css' href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css' media='all' />
-<script async data-wp-strategy="async" id="monsterinsights-frontend-script-js" src="http://cineport.jp/wp-content/plugins/google-analytics-for-wordpress/assets/js/frontend-gtag.min.js?ver=10.2.1"></script>
+<script async data-wp-strategy="async" id="monsterinsights-frontend-script-js" src="http://cineport.jp/wp-content/plugins/google-analytics-for-wordpress/assets/js/frontend-gtag.min.js?ver=10.2.2"></script>
 <script data-cfasync="false" data-wpfc-render="false" type="text/javascript" id='monsterinsights-frontend-script-js-extra'>/* <![CDATA[ */
 var monsterinsights_frontend = {"js_events_tracking":"true","download_extensions":"doc,pdf,ppt,zip,xls,docx,pptx,xlsx","inbound_paths":"[{\"path\":\"\\\/go\\\/\",\"label\":\"affiliate\"},{\"path\":\"\\\/recommend\\\/\",\"label\":\"affiliate\"}]","home_url":"http:\/\/cineport.jp","hash_tracking":"false","v4_id":"G-5RNLD86YEP"};/* ]]> */
 </script>
@@ -573,6 +573,18 @@ span.cat-name.cat-id-3 {
 
 
 <figure class="wp-block-image size-large"><img decoding="async" width="1024" height="662" src="https://cineport.jp/wp-content/uploads/2026/05/8タイトル（平日）0529-1024x662.png" alt="" class="wp-image-9003" srcset="http://cineport.jp/wp-content/uploads/2026/05/8タイトル（平日）0529-1024x662.png 1024w, http://cineport.jp/wp-content/uploads/2026/05/8タイトル（平日）0529-300x194.png 300w, http://cineport.jp/wp-content/uploads/2026/05/8タイトル（平日）0529-768x496.png 768w, http://cineport.jp/wp-content/uploads/2026/05/8タイトル（平日）0529-485x313.png 485w, http://cineport.jp/wp-content/uploads/2026/05/8タイトル（平日）0529.png 1436w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="662" src="https://cineport.jp/wp-content/uploads/2026/05/8タイトル（平日）0605-1024x662.png" alt="" class="wp-image-9024" srcset="http://cineport.jp/wp-content/uploads/2026/05/8タイトル（平日）0605-1024x662.png 1024w, http://cineport.jp/wp-content/uploads/2026/05/8タイトル（平日）0605-300x194.png 300w, http://cineport.jp/wp-content/uploads/2026/05/8タイトル（平日）0605-768x496.png 768w, http://cineport.jp/wp-content/uploads/2026/05/8タイトル（平日）0605-485x313.png 485w, http://cineport.jp/wp-content/uploads/2026/05/8タイトル（平日）0605.png 1436w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="649" src="https://cineport.jp/wp-content/uploads/2026/05/8タイトル（土日）0606-1024x649.png" alt="" class="wp-image-9026" srcset="http://cineport.jp/wp-content/uploads/2026/05/8タイトル（土日）0606-1024x649.png 1024w, http://cineport.jp/wp-content/uploads/2026/05/8タイトル（土日）0606-300x190.png 300w, http://cineport.jp/wp-content/uploads/2026/05/8タイトル（土日）0606-768x486.png 768w, http://cineport.jp/wp-content/uploads/2026/05/8タイトル（土日）0606-485x307.png 485w, http://cineport.jp/wp-content/uploads/2026/05/8タイトル（土日）0606.png 1465w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="734" src="https://cineport.jp/wp-content/uploads/2026/05/9タイトル（平日）0611-1024x734.png" alt="" class="wp-image-9027" srcset="http://cineport.jp/wp-content/uploads/2026/05/9タイトル（平日）0611-1024x734.png 1024w, http://cineport.jp/wp-content/uploads/2026/05/9タイトル（平日）0611-300x215.png 300w, http://cineport.jp/wp-content/uploads/2026/05/9タイトル（平日）0611-768x551.png 768w, http://cineport.jp/wp-content/uploads/2026/05/9タイトル（平日）0611-485x348.png 485w, http://cineport.jp/wp-content/uploads/2026/05/9タイトル（平日）0611.png 1420w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
