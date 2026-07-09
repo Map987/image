@@ -333,3 +333,4 @@ wix:image://v1/120fe5_239cf4a8f06f49c089f10925ae8a83ca~mv2.jpg/2期KV_ロゴin.j
 wix:image://v1/120fe5_68fd630fedce46d284c88f76ead6468f~mv2.jpg/SBE_KV_logo_RGB.jpg#originWidth=1414&originHeight=2000
 wix:image://v1/120fe5_5aefa4613d1c4547b8d14e39885e5290~mv2.jpg/猫と竜poster.jpg#originWidth=4093&originHeight=5787
 wix:image://v1/120fe5_2f5cad1e53574366856a88ff0de151df~mv2.png/OAP.jpg.png#originWidth=1217&originHeight=1720
+wix:image://v1/120fe5_2eb8baa72a2d4b29be60ecebd85aac47~mv2.jpg/猫と竜_KV_logo_c(mini).jpg#originWidth=1000&originHeight=707
