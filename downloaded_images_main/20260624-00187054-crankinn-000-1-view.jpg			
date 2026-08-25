@@ -37,7 +37,7 @@
 <link rel='dns-prefetch' href='//cdnjs.cloudflare.com' />
 <link rel="alternate" type="application/rss+xml" title="CINEPORT ・シネポート（都城） &raquo; フィード" href="http://cineport.jp/?feed=rss2" />
 <link rel="alternate" type="application/rss+xml" title="CINEPORT ・シネポート（都城） &raquo; コメントフィード" href="http://cineport.jp/?feed=comments-rss2" />
-<script data-api-url="http://cineport.jp/index.php?rest_route=/wordpress-popular-posts" data-debug="0" data-lang="0" data-post="0" data-sampling-rate="100" data-sampling="0" data-token="82f0bfed64" id="wpp-js" src="http://cineport.jp/wp-content/plugins/wordpress-popular-posts/assets/js/wpp.min.js?ver=7.4.1"></script>
+<script data-api-url="http://cineport.jp/index.php?rest_route=/wordpress-popular-posts" data-debug="0" data-lang="0" data-post="0" data-sampling-rate="100" data-sampling="0" data-token="2d818b5ee5" id="wpp-js" src="http://cineport.jp/wp-content/plugins/wordpress-popular-posts/assets/js/wpp.min.js?ver=7.4.1"></script>
 <link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="http://cineport.jp/index.php?rest_route=%2Foembed%2F1.0%2Fembed&#038;url=http%3A%2F%2Fcineport.jp%2F" />
 <link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="http://cineport.jp/index.php?rest_route=%2Foembed%2F1.0%2Fembed&#038;url=http%3A%2F%2Fcineport.jp%2F&#038;format=xml" />
 <style id="wp-img-auto-sizes-contain-inline-css">
@@ -132,7 +132,7 @@ gtag("config", "GT-5MJWXR8", {"googlesitekit_post_type":"page"});
 <link rel="https://api.w.org/" href="http://cineport.jp/index.php?rest_route=/" /><link rel="alternate" title="JSON" type="application/json" href="http://cineport.jp/index.php?rest_route=/wp/v2/pages/521" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://cineport.jp/xmlrpc.php?rsd" />
 
 <link rel='shortlink' href='http://cineport.jp/' />
-<meta name="generator" content="Site Kit by Google 1.185.0" />            <style id="wpp-loading-animation-styles">@-webkit-keyframes bgslide{from{background-position-x:0}to{background-position-x:-200%}}@keyframes bgslide{from{background-position-x:0}to{background-position-x:-200%}}.wpp-widget-block-placeholder,.wpp-shortcode-placeholder{margin:0 auto;width:60px;height:3px;background:#dd3737;background:linear-gradient(90deg,#dd3737 0%,#571313 10%,#dd3737 100%);background-size:200% auto;border-radius:3px;-webkit-animation:bgslide 1s infinite linear;animation:bgslide 1s infinite linear}</style>
+<meta name="generator" content="Site Kit by Google 1.186.0" />            <style id="wpp-loading-animation-styles">@-webkit-keyframes bgslide{from{background-position-x:0}to{background-position-x:-200%}}@keyframes bgslide{from{background-position-x:0}to{background-position-x:-200%}}.wpp-widget-block-placeholder,.wpp-shortcode-placeholder{margin:0 auto;width:60px;height:3px;background:#dd3737;background:linear-gradient(90deg,#dd3737 0%,#571313 10%,#dd3737 100%);background-size:200% auto;border-radius:3px;-webkit-animation:bgslide 1s infinite linear;animation:bgslide 1s infinite linear}</style>
             <style id="custom-background-css">
 body.custom-background { background-color: #ffffff; }
 </style>
@@ -448,6 +448,12 @@ var q2w3_sidebar_options = [{"use_sticky_position":false,"margin_top":0,"margin_
 //# sourceURL=q2w3_fixed_widget-js-extra
 </script>
 <script id="q2w3_fixed_widget-js" src="http://cineport.jp/wp-content/plugins/q2w3-fixed-widget/js/frontend.min.js?ver=6.2.3"></script>
+<script id="googlesitekit-events-provider-content-events-js-before">
+window._googlesitekit = window._googlesitekit || {};
+window._googlesitekit.contentEvents = {"postID":521,"isSinglePost":false};
+//# sourceURL=googlesitekit-events-provider-content-events-js-before
+</script>
+<script id="googlesitekit-events-provider-content-events-js" src="http://cineport.jp/wp-content/plugins/google-site-kit/dist/assets/js/googlesitekit-events-provider-content-events-33078016c5e1e9f07c35.js" defer></script>
 <script id="wp-emoji-settings" type="application/json">
 {"baseUrl":"https://s.w.org/images/core/emoji/17.0.2/72x72/","ext":".png","svgUrl":"https://s.w.org/images/core/emoji/17.0.2/svg/","svgExt":".svg","source":{"concatemoji":"http://cineport.jp/wp-includes/js/wp-emoji-release.min.js?ver=7.1"}}
 </script>
