@@ -13442,3 +13442,21 @@ https://cineport.jp/wp-content/uploads/2021/04/gaikan.jpg | 0.1 MB | 2025-06-04 
 				http://cineport.jp/wp-content/uploads/2026/05/【初日入り】Michael／マイケル_ティザービジュアル.jpg			 | 0.1 MB | 2026-09-01 05:09:11
 
 				http://cineport.jp/wp-content/uploads/2021/04/gaikan.jpg			 | 0.1 MB | 2026-09-01 05:09:13
+
+				http://cineport.jp/wp-content/uploads/2026/08/NEW_Poster_RGB.jpg			 | 0.1 MB | 2026-09-02 02:55:18
+
+				http://cineport.jp/wp-content/uploads/2026/08/アンパンマン2026_ポスタービジュアル.jpg			 | 0.1 MB | 2026-09-02 02:55:20
+
+				http://cineport.jp/wp-content/uploads/2026/08/260624_MG-2_Hon_poster_37_ol.jpg			 | 0.1 MB | 2026-09-02 02:55:22
+
+				http://cineport.jp/wp-content/uploads/2026/08/20260624-00187054-crankinn-000-1-view.jpg			 | 0.1 MB | 2026-09-02 02:55:24
+
+				http://cineport.jp/wp-content/uploads/2026/06/印刷用_映画ちいかわ-人魚の島のひみつ_本ポスタービジュアル.jpg			 | 0.1 MB | 2026-09-02 02:55:27
+
+				http://cineport.jp/wp-content/uploads/2026/06/印刷用_キングダム-魂の決戦_本ポスタービジュアル.jpg			 | 0.1 MB | 2026-09-02 02:55:29
+
+				http://cineport.jp/wp-content/uploads/2026/06/toy5_JPpayoff_RGB.jpg			 | 0.1 MB | 2026-09-02 02:55:31
+
+				http://cineport.jp/wp-content/uploads/2026/05/【初日入り】Michael／マイケル_ティザービジュアル.jpg			 | 0.1 MB | 2026-09-02 02:55:34
+
+				http://cineport.jp/wp-content/uploads/2021/04/gaikan.jpg			 | 0.1 MB | 2026-09-02 02:55:36
