@@ -336,3 +336,4 @@ wix:image://v1/120fe5_2f5cad1e53574366856a88ff0de151df~mv2.png/OAP.jpg.png#origi
 wix:image://v1/120fe5_2eb8baa72a2d4b29be60ecebd85aac47~mv2.jpg/猫と竜_KV_logo_c(mini).jpg#originWidth=1000&originHeight=707
 wix:image://v1/120fe5_0e70022ebb5846ccb56f9b0616fe50e5~mv2.png/PUNI4.png#originWidth=1460&originHeight=2064
 wix:image://v1/120fe5_1d15dc57cbbf403ab7b265cf1559c648~mv2.jpg/【2026.8.15 20_30解禁】『薬屋のひとりごと』第3期KV.jpg#originWidth=8598&originHeight=12165
+wix:image://v1/b4e346_4444390be8d94e95bed4a50540638818~mv2.jpg/PM_Verne_202608_MV_FIX.jpg#originWidth=1461&originHeight=2065
