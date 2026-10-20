@@ -337,3 +337,5 @@ wix:image://v1/120fe5_2eb8baa72a2d4b29be60ecebd85aac47~mv2.jpg/猫と竜_KV_logo
 wix:image://v1/120fe5_0e70022ebb5846ccb56f9b0616fe50e5~mv2.png/PUNI4.png#originWidth=1460&originHeight=2064
 wix:image://v1/120fe5_1d15dc57cbbf403ab7b265cf1559c648~mv2.jpg/【2026.8.15 20_30解禁】『薬屋のひとりごと』第3期KV.jpg#originWidth=8598&originHeight=12165
 wix:image://v1/b4e346_4444390be8d94e95bed4a50540638818~mv2.jpg/PM_Verne_202608_MV_FIX.jpg#originWidth=1461&originHeight=2065
+wix:image://v1/120fe5_e907612ecdb740a1888abd572cf12399~mv2.jpg/dia2_2クールKV_logR2.jpg#originWidth=1414&originHeight=2000
+wix:image://v1/120fe5_68698d1c0c134a0b8bd0536d2d71ce5a~mv2.jpg/国内用_ベイキングダム編サブタイ入り_Poster_BBX_S4KeyVisual_merged.jpg#originWidth=2693&originHeight=3797
