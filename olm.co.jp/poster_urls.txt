@@ -339,3 +339,4 @@ wix:image://v1/120fe5_1d15dc57cbbf403ab7b265cf1559c648~mv2.jpg/【2026.8.15 20_3
 wix:image://v1/b4e346_4444390be8d94e95bed4a50540638818~mv2.jpg/PM_Verne_202608_MV_FIX.jpg#originWidth=1461&originHeight=2065
 wix:image://v1/120fe5_e907612ecdb740a1888abd572cf12399~mv2.jpg/dia2_2クールKV_logR2.jpg#originWidth=1414&originHeight=2000
 wix:image://v1/120fe5_68698d1c0c134a0b8bd0536d2d71ce5a~mv2.jpg/国内用_ベイキングダム編サブタイ入り_Poster_BBX_S4KeyVisual_merged.jpg#originWidth=2693&originHeight=3797
+wix:image://v1/b4e346_2537b5f8757447bbba02a91b1f566402~mv2.jpg/BLT_MAIN_0819_low.jpg#originWidth=4299&originHeight=6083
